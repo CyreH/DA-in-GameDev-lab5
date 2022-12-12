@@ -86,6 +86,7 @@
 	![image](https://user-images.githubusercontent.com/102403656/207007066-5edb63f0-fc57-4e3b-94e6-e52d24c18a72.png)
 	![image](https://user-images.githubusercontent.com/102403656/207007111-d96d6520-904d-488d-b321-983df301b2d1.png)
 - Далее я пробовал изменять, как мне показалось, наиболее весомые значения:
+
 Economics1
 ```
 learning_rate: 2.0e-4
