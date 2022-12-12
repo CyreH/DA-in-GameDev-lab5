@@ -51,7 +51,7 @@
 ## Задание 1
 ### Измените параметры файла. yaml-агента и определить какие параметры и как влияют на обучение модели.
 - Cтартовые значения и результат:
-	- ```c#
+	 ```c#
 	behaviors:
 	  Economic:
 	    trainer_type: ppo
@@ -83,8 +83,8 @@
 	      play_against_latest_model_ratio: 0.5
 	      window: 10
 	```
-	- ![image](https://user-images.githubusercontent.com/102403656/207007066-5edb63f0-fc57-4e3b-94e6-e52d24c18a72.png)
-	- ![image](https://user-images.githubusercontent.com/102403656/207007111-d96d6520-904d-488d-b321-983df301b2d1.png)
+	![image](https://user-images.githubusercontent.com/102403656/207007066-5edb63f0-fc57-4e3b-94e6-e52d24c18a72.png)
+	![image](https://user-images.githubusercontent.com/102403656/207007111-d96d6520-904d-488d-b321-983df301b2d1.png)
 
 
 
